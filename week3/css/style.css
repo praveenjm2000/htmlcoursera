@@ -8,17 +8,17 @@ a:link {
 
 #main-nav{
 	border-radius: 0;
-	background-color: #1111;
+	background-color: #22222;
     padding: 25px;
 }
 
 #nav-items ul li a{
-    color: #3B5249;
+    color: #ADADAD;
     text-align: center;
 }
 
 #nav-button .icon-bar{
-    border: 2px solid #3B5249;
+    border: 2px solid #ADADAD;
 }
 
 #brand{
